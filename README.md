@@ -1,6 +1,5 @@
-### `$ whoami`
 
-### Hi there, I'm LTP ✔️
+### Hi there, I'm Van Thinh ✔️
 
 > [![View count](https://visitcount.itsvg.in/api?id=vanthinn&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=vanthinn)
 
@@ -12,13 +11,8 @@
 - 👀 : Here is <a href="https://www.ltp110.tk">my personal website</a>
 - ✍️ : There is <a href="https://www.crf-blogger.gq">my blog and articles</a>
 - ❤️ : I'm passionate about:
-  - 🔐 Cyber Security
   - 🪐 Operating Systems (Windows & Linux)
   - 🖥️ Website Developer
-
-<span>[<img src="https://images.credly.com/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png" width="125">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)</span>
-<span>[<img src="https://images.credly.com/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" width="125">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)</span>
-<span>[<img src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="125">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)</span>
 
 ### 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
