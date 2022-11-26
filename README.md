@@ -8,8 +8,8 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Front-end+Developer;I'm+a+Blogger"></p>
 
 - 🇻🇳 : I'm from VietNam
-- 👀 : Here is <a href="https://www.ltp110.tk">my personal website</a>
-- ✍️ : There is <a href="https://www.crf-blogger.gq">my blog and articles</a>
+- 👀 : Here is 
+- ✍️ : There is 
 - ❤️ : I'm passionate about:
   - 🪐 Operating Systems (Windows & Linux)
   - 🖥️ Website Developer
